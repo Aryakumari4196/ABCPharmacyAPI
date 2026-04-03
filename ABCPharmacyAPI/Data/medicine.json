@@ -1,0 +1,250 @@
+[
+  {
+    "FullName": "Paracetamol 500mg",
+    "Notes": "Fever and pain relief",
+    "ExpiryDate": "2026-04-15T00:00:00",
+    "Quantity": 5,
+    "Price": 10.50,
+    "Brand": "ABC Pharma"
+  },
+  {
+    "FullName": "Ibuprofen 400mg",
+    "Notes": "Pain relief",
+    "ExpiryDate": "2026-06-20T00:00:00",
+    "Quantity": 50,
+    "Price": 25.00,
+    "Brand": "HealWell"
+  },
+  {
+    "FullName": "Amoxicillin 250mg",
+    "Notes": "Antibiotic",
+    "ExpiryDate": "2026-04-10T00:00:00",
+    "Quantity": 8,
+    "Price": 45.75,
+    "Brand": "MediCare"
+  },
+  {
+    "FullName": "Cetirizine 10mg",
+    "Notes": "Allergy relief",
+    "ExpiryDate": "2026-08-12T00:00:00",
+    "Quantity": 20,
+    "Price": 15.30,
+    "Brand": "AllerFree"
+  },
+  {
+    "FullName": "Azithromycin 500mg",
+    "Notes": "Antibiotic",
+    "ExpiryDate": "2026-04-05T00:00:00",
+    "Quantity": 3,
+    "Price": 120.00,
+    "Brand": "ZithroMed"
+  },
+  {
+    "FullName": "Metformin 500mg",
+    "Notes": "Diabetes control",
+    "ExpiryDate": "2027-01-10T00:00:00",
+    "Quantity": 60,
+    "Price": 35.00,
+    "Brand": "GlucoCare"
+  },
+  {
+    "FullName": "Atorvastatin 10mg",
+    "Notes": "Cholesterol control",
+    "ExpiryDate": "2026-05-25T00:00:00",
+    "Quantity": 12,
+    "Price": 55.20,
+    "Brand": "HeartSafe"
+  },
+  {
+    "FullName": "Pantoprazole 40mg",
+    "Notes": "Acidity",
+    "ExpiryDate": "2026-04-18T00:00:00",
+    "Quantity": 7,
+    "Price": 22.40,
+    "Brand": "AcidRelief"
+  },
+  {
+    "FullName": "Vitamin D3",
+    "Notes": "Supplement",
+    "ExpiryDate": "2026-12-30T00:00:00",
+    "Quantity": 100,
+    "Price": 80.00,
+    "Brand": "NutriLife"
+  },
+  {
+    "FullName": "Calcium Tablets",
+    "Notes": "Bone health",
+    "ExpiryDate": "2026-09-15T00:00:00",
+    "Quantity": 9,
+    "Price": 60.00,
+    "Brand": "BoneStrong"
+  },
+  {
+    "FullName": "ORS Sachet",
+    "Notes": "Dehydration",
+    "ExpiryDate": "2026-04-07T00:00:00",
+    "Quantity": 4,
+    "Price": 5.00,
+    "Brand": "HydraPlus"
+  },
+  {
+    "FullName": "Dolo 650",
+    "Notes": "Fever",
+    "ExpiryDate": "2026-11-01T00:00:00",
+    "Quantity": 30,
+    "Price": 12.00,
+    "Brand": "Micro Labs"
+  },
+  {
+    "FullName": "Crocin Advance",
+    "Notes": "Pain relief",
+    "ExpiryDate": "2026-04-12T00:00:00",
+    "Quantity": 6,
+    "Price": 14.00,
+    "Brand": "GSK"
+  },
+  {
+    "FullName": "Insulin Injection",
+    "Notes": "Diabetes",
+    "ExpiryDate": "2026-04-03T00:00:00",
+    "Quantity": 2,
+    "Price": 350.00,
+    "Brand": "NovoNordisk"
+  },
+  {
+    "FullName": "Disprin",
+    "Notes": "Headache",
+    "ExpiryDate": "2026-07-21T00:00:00",
+    "Quantity": 15,
+    "Price": 8.00,
+    "Brand": "Reckitt"
+  },
+  {
+    "FullName": "Betadine Ointment",
+    "Notes": "Antiseptic",
+    "ExpiryDate": "2026-10-10T00:00:00",
+    "Quantity": 11,
+    "Price": 75.00,
+    "Brand": "WinMed"
+  },
+  {
+    "FullName": "Cough Syrup",
+    "Notes": "Cold \u0026 cough",
+    "ExpiryDate": "2026-04-09T00:00:00",
+    "Quantity": 5,
+    "Price": 95.00,
+    "Brand": "CoughFree"
+  },
+  {
+    "FullName": "Loperamide",
+    "Notes": "Diarrhea",
+    "ExpiryDate": "2026-06-18T00:00:00",
+    "Quantity": 14,
+    "Price": 18.50,
+    "Brand": "DigestCare"
+  },
+  {
+    "FullName": "Ranitidine",
+    "Notes": "Acidity",
+    "ExpiryDate": "2026-04-11T00:00:00",
+    "Quantity": 6,
+    "Price": 20.00,
+    "Brand": "AcidBlock"
+  },
+  {
+    "FullName": "Aspirin",
+    "Notes": "Pain relief",
+    "ExpiryDate": "2026-08-05T00:00:00",
+    "Quantity": 40,
+    "Price": 10.00,
+    "Brand": "Bayer"
+  },
+  {
+    "FullName": "Hydroxychloroquine",
+    "Notes": "Autoimmune",
+    "ExpiryDate": "2026-05-30T00:00:00",
+    "Quantity": 13,
+    "Price": 150.00,
+    "Brand": "HCQS"
+  },
+  {
+    "FullName": "Levocetirizine",
+    "Notes": "Allergy",
+    "ExpiryDate": "2026-04-14T00:00:00",
+    "Quantity": 9,
+    "Price": 16.00,
+    "Brand": "AllerStop"
+  },
+  {
+    "FullName": "Zinc Tablets",
+    "Notes": "Immunity",
+    "ExpiryDate": "2026-12-01T00:00:00",
+    "Quantity": 70,
+    "Price": 45.00,
+    "Brand": "ImmunoPlus"
+  },
+  {
+    "FullName": "Multivitamin Capsules",
+    "Notes": "General health",
+    "ExpiryDate": "2026-09-09T00:00:00",
+    "Quantity": 25,
+    "Price": 90.00,
+    "Brand": "VitaHealth"
+  },
+  {
+    "FullName": "Diclofenac Gel",
+    "Notes": "Pain relief",
+    "ExpiryDate": "2026-04-08T00:00:00",
+    "Quantity": 7,
+    "Price": 65.00,
+    "Brand": "PainAway"
+  },
+  {
+    "FullName": "New Tablet",
+    "Notes": "Test medicine",
+    "ExpiryDate": "2026-12-01T00:00:00",
+    "Quantity": 20,
+    "Price": 99.99,
+    "Brand": "TestBrand"
+  },
+  {
+    "FullName": "New Tablet",
+    "Notes": "Test medicine",
+    "ExpiryDate": "2026-12-01T00:00:00",
+    "Quantity": 20,
+    "Price": 99.99,
+    "Brand": "TestBrand"
+  },
+  {
+    "FullName": "New Tablet",
+    "Notes": "Test medicine",
+    "ExpiryDate": "2026-12-01T00:00:00",
+    "Quantity": 5,
+    "Price": 99.99,
+    "Brand": "TestBrand"
+  },
+  {
+    "FullName": "Paracetamol 500mg",
+    "Notes": "Fever and pain relief",
+    "ExpiryDate": "2026-04-05T00:00:00",
+    "Quantity": 10,
+    "Price": 30,
+    "Brand": "ABC Pharma"
+  },
+  {
+    "FullName": "Paracetamol 500mg",
+    "Notes": "Fever and pain relief",
+    "ExpiryDate": "2026-04-05T00:00:00",
+    "Quantity": 7,
+    "Price": 54,
+    "Brand": "ABC Pharma"
+  },
+  {
+    "FullName": "Paracetamol 500mg",
+    "Notes": "Fever and pain relief",
+    "ExpiryDate": "2026-06-11T00:00:00",
+    "Quantity": 6,
+    "Price": 34,
+    "Brand": "ABC Pharma"
+  }
+]
