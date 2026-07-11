@@ -19,7 +19,7 @@ namespace ABCPharmacyAPI.Controllers
         public async Task<ActionResult<List<Medicine>>> GetAllMedicines(string ? name, int pageNumber , int pageSize)
         {
             var result = await _medicineService.GetAllMedicinesAsync(name, pageNumber, pageSize);
-
+            Console.WriteLine($"Total Count: {result.TotalCount}"); 
             return Ok(new
             {
                 success = true,
