@@ -5,11 +5,14 @@ WORKDIR /src
 
 COPY . .
 
+WORKDIR /src/ABCPharmacyAPI
+
 RUN dotnet restore "ABCPharmacyAPI.csproj"
 
 RUN dotnet publish "ABCPharmacyAPI.csproj" \
     -c Release \
-    -o /app/publish
+    -o /app/publish \
+    /p:UseAppHost=false
 
 # Runtime Stage
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
@@ -22,4 +25,4 @@ EXPOSE 8080
 
 ENV ASPNETCORE_URLS=http://+:8080
 
-ENTRYPOINT ["dotnet","ABCPharmacyAPI.dll"]
+ENTRYPOINT ["dotnet", "ABCPharmacyAPI.dll"]
